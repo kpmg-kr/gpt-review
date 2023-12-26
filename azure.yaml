@@ -4,5 +4,5 @@ azure_api_version: 2023-07-01-preview
 azure_model_map:
     turbo_llm_model_deployment_id: gpt-4
     smart_llm_model_deployment_id: gpt-4
-    large_llm_model_deployment_id: gpt-4
+    large_llm_model_deployment_id: gpt-4-32k
     embedding_model_deployment_id: text-embedding-ada-002
