@@ -28,9 +28,9 @@ DEFAULT_RETRY_AFTER = 30
 AZURE_API_TYPE = "azure"
 AZURE_API_VERSION = "2023-07-01-preview"
 AZURE_CONFIG_FILE = "azure.yaml"
-AZURE_TURBO_MODEL = "gpt-4"
-AZURE_SMART_MODEL = "gpt-4"
-AZURE_LARGE_MODEL = "gpt-4-32k"
+AZURE_TURBO_MODEL = "gpt-4-turbo"
+AZURE_SMART_MODEL = "gpt-4-turbo"
+AZURE_LARGE_MODEL = "gpt-4-turbo"
 AZURE_EMBEDDING_MODEL = "text-embedding-ada-002"
 AZURE_KEY_VAULT = "https://dciborow-openai.vault.azure.net/"
 
